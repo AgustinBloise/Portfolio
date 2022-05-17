@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(165, 165, 165);
+    text-align: center;
+}
+
+.foto{
+    width: 15%;
+    height: auto;
+    margin-bottom: 1%;
+}
+.centro{
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.navi{
+    margin-bottom: 3%;
+}
+
+.port{
+    margin-top: 5%;
+    background-color: rgb(116, 116, 116);
+    padding: 3%;
+}
+
+
+.pict{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    border: 0 auto;
+    padding: 5%;
+    text-align: center;
+    border-radius: 10%;
+  
+}
+
+.pict:hover{
+    width: 105%;
+    }
+
+hr{
+ margin-left: 15%;
+ margin-right: 15%;
+}
+
+.texto{
+    padding: 3% 0% 2%;
+}
+
+.texto2{
+    padding: 1%;
+}
+
+.texto3{
+    padding: 3% 0% 0%;
+}
+
+.short{
+    margin: auto 30%;
+    text-align: left;
+}
+
+.footer{
+    background-color: rgb(88, 88, 88);
+    font-family: 'Quicksand', sans-serif;
+}
+
+.rs{
+    padding: 3% 0% 4% ;
+}
+
+.pict2{
+   padding-top: 8%;
+}
+
+.copy{
+    background-color: rgb(46, 46, 46);
+    color: white;
+    padding: 0.6% 0% 0.1%;
+}
+
+.size:hover{
+width: 50%;
+}
+
+.btn:active{
+    background-color: rgb(255, 238, 0);
+}
